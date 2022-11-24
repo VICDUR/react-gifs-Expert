@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba en Gifitem debe de hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="supermanVolador"
+      src="https://superman.com/clarken.jpg"
+    />
+    <p>
+       
+      supermanVo
+       
+    </p>
+  </div>
+</div>
+`;
